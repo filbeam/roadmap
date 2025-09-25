@@ -1,2 +1,2 @@
-# roadmap-filcdn
-High-level roadmap for FilCDN
+# roadmap
+High-level roadmap for FilBeam
